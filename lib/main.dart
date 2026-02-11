@@ -11,6 +11,11 @@ Future<void> main() async {
   await Firebase.initializeApp();
   runApp(HydroApp());
 }
+// void main() async {
+//   WidgetsFlutterBinding.ensureInitialized();
+//   await Firebase.initializeApp();
+//   runApp(const MyApp());
+// }
 
 class HydroApp extends StatelessWidget {
   @override
