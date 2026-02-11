@@ -36,7 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   # Other dependencies
-  charts_flutter: ^0.10.0
+  charts_flutter: ^0.12.0
   google_sign_in: ^5.0.1
   home_widget: ^0.1.2+1
 
