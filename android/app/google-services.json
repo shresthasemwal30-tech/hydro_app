@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597138167920",
+    "project_id": "hydrophonics-c4a06",
+    "storage_bucket": "hydrophonics-c4a06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597138167920:android:ae003354aa54163b34bcb5",
+        "android_client_info": {
+          "package_name": "com.monigrow.hydro_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xO2lvrHf1Wyenl1j4vaDYPKgXlnn7fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
